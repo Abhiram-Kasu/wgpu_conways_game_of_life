@@ -4,7 +4,8 @@ A high-performance implementation of Conway's Game of Life using WGPU (WebGPU) a
 
 ## Screenshot
 
-<!-- Insert screenshot here -->
+<img width="2550" height="1426" alt="image" src="https://github.com/user-attachments/assets/47a361d8-eb8a-4a50-a173-b2133315043a" />
+
 
 ## Features
 
@@ -58,7 +59,3 @@ The compute shader implements the classic Conway's Game of Life rules:
 - Any live cell with 2 or 3 live neighbors survives
 - Any dead cell with exactly 3 live neighbors becomes alive
 - All other cells die or remain dead
-
-## License
-
-[Add your license here]
