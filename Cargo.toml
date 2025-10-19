@@ -1,0 +1,13 @@
+[package]
+name = "wgpu_conways_game_of_life"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+winit = "0.30.12"
+env_logger = "0.11.8"
+log = "0.4"
+pollster = "0.4"
+bytemuck = "1.24.0"
+wgpu = "27.0.1"
+rand = "0.9.2"
